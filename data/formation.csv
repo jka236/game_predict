@@ -1,0 +1,6 @@
+home_player_X1,home_player_X2,home_player_X3,home_player_X4,home_player_X5,home_player_X6,home_player_X7,home_player_X8,home_player_X9,home_player_X10,home_player_X11,home_player_Y1,home_player_Y2,home_player_Y3,home_player_Y4,home_player_Y5,home_player_Y6,home_player_Y7,home_player_Y8,home_player_Y9,home_player_Y10,home_player_Y11,away_player_X1,away_player_X2,away_player_X3,away_player_X4,away_player_X5,away_player_X6,away_player_X7,away_player_X8,away_player_X9,away_player_X10,away_player_X11,away_player_Y1,away_player_Y2,away_player_Y3,away_player_Y4,away_player_Y5,away_player_Y6,away_player_Y7,away_player_Y8,away_player_Y9,away_player_Y10,away_player_Y11,home_team_goal,away_team_goal
+1,2,4,6,8,2,4,6,8,4,6,1,3,3,3,3,7,7,7,7,10,10,1,2,4,6,8,2,4,6,8,4,6,1,3,3,3,3,7,7,7,7,10,10,2,2
+1,2,4,8,6,2,4,6,8,4,6,1,3,3,3,3,7,7,7,7,10,10,1,2,4,6,8,2,4,6,8,4,6,1,3,3,3,3,7,7,7,7,10,10,1,2
+1,2,4,6,8,2,4,6,8,6,4,1,3,3,3,3,7,7,7,7,10,10,1,2,4,6,8,2,4,6,8,4,6,1,3,3,3,3,7,7,7,7,10,10,1,3
+1,2,4,6,8,2,4,6,8,4,6,1,3,3,3,3,7,7,7,7,10,10,1,2,4,6,8,2,4,6,8,4,6,1,3,3,3,3,7,7,7,7,10,10,1,1
+1,2,4,6,8,2,4,6,8,4,6,1,3,3,3,3,7,7,7,7,10,10,1,2,4,6,8,2,4,6,8,4,6,1,3,3,3,3,7,7,7,7,10,10,0,2
